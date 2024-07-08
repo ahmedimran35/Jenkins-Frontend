@@ -1,0 +1,68 @@
+[
+  {
+    "CategoryName": "Tools and Softwares",
+    "categoryLink": "tools-and-softwares",
+    "subCategories": [
+      {
+        "subCategoryName": "Custom GPTs",
+        "subCategoryLink": "custom-gpts"
+      },
+      {
+        "subCategoryName": "Bloggers",
+        "subCategoryLink": "bloggers"
+      },
+      {
+        "subCategoryName": "Content Creators",
+        "subCategoryLink": "content-creators"
+      },
+      {
+        "subCategoryName": "Course Creators",
+        "subCategoryLink": "course-creators"
+      },
+      {
+        "subCategoryName": "Educators",
+        "subCategoryLink": "educators"
+      },
+      {
+        "subCategoryName": "Graphic Designers",
+        "subCategoryLink": "graphic-designers"
+      },
+      {
+        "subCategoryName": "Influencers",
+        "subCategoryLink": "influencers"
+      },
+      {
+        "subCategoryName": "Podcasters",
+        "subCategoryLink": "podcasters"
+      },
+      {
+        "subCategoryName": "Recruiters",
+        "subCategoryLink": "recruiters"
+      },
+      {
+        "subCategoryName": "Small Businesses",
+        "subCategoryLink": "small-businesses"
+      },
+      {
+        "subCategoryName": "Social Media Managers",
+        "subCategoryLink": "social-media-managers"
+      },
+      {
+        "subCategoryName": "Solopreneurs",
+        "subCategoryLink": "solopreneurs"
+      },
+      {
+        "subCategoryName": "Videographers",
+        "subCategoryLink": "videographers"
+      },
+      {
+        "subCategoryName": "YouTubers",
+        "subCategoryLink": "youtubers"
+      },
+      {
+        "subCategoryName": "Video Editing",
+        "subCategoryLink": "video-editing"
+      }
+    ]
+  }
+]
