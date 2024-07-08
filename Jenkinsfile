@@ -17,7 +17,7 @@ pipeline {
         }
         stage('Setup Environment') {
             steps {
-                sh 'cp $ENV_FILE .env'
+                sh 'cp $ENV_FILE .env.local'
             }
         }
         stage('Install') {
